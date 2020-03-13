@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+	background-color: #bd75ad;
+	border: 9px solid white;
+}
+
+header{
+	background-color: #e89422;
+	text-align: center;
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+
+h1, h2{
+	font-family: 'Special Elite', cursive;
+}
+
+h2{
+	font-size: 45px; 
+	margin: 8px;
+}
+
+body{
+	font-family: 'News Cycle', sans-serif;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 20px solid pink;
+}
+main{
+	max-width: 775px;
+	margin:	0 auto;
+	padding: 20px;
+	background-color: pink;
+	border: 9px solid white;
+}
+
+main img{
+	max-width: 100%;
+}
+
+footer{
+	background-color: #e89422;
+	text-align: center;
+	padding: 45px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	margin: 0;
+}
+a{
+	color: purple;
+}
+
+a:hover{
+	color: white;
+}
+
+p.caption{
+	margin: 0;
+}
